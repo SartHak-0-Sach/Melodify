@@ -70,6 +70,7 @@ nav ul li{
 
 .icons i{
     cursor: pointer;
+    color: white;
 }
 
 #myProgressBar{
