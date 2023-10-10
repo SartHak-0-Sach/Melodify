@@ -70,7 +70,6 @@ nav ul li{
 
 .icons i{
     cursor: pointer;
-    color: white;
 }
 
 #myProgressBar{
@@ -81,7 +80,6 @@ nav ul li{
     height: 50px;
     display: flex;
     background-color: white;
-    width: 80%;
     color: black;
     margin: 12px 0;
     justify-content: space-between;
@@ -97,5 +95,5 @@ nav ul li{
 
 .timestamp{
     margin: 0 23px;
-
+    cursor: pointer;
 }
