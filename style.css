@@ -105,3 +105,8 @@ nav ul li{
 .timestamp i{
     cursor: pointer;
 }
+
+.songInfo{
+    position: absolute;
+    left: 0;
+}
