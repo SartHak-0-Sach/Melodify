@@ -23,33 +23,33 @@
         <div class="songItemContainer">
         <div class="songItem">
             <img src="cover1.jpeg" alt="cover photo">
-            <span>Song number 1</span>
-            <span class="songlistplay"><span class="timestamp">05:34 <i class="fa-solid fa-play"></i></span></span>
+            <span class="songName">Song number 1</span>
+            <span class="songlistplay"><span class="timestamp">05:34 <i id="0" class="fa-solid songItemPlay fa-play"></i></span></span>
         </div>
         <div class="songItem">
             <img src="cover2.jpeg" alt="cover photo">
-            <span>Song number 2</span>
-            <span class="songlistplay"><span class="timestamp">05:34 <i class="fa-solid fa-play"></i></span></span>
+            <span class="songName">Song number 2</span>
+            <span class="songlistplay"><span class="timestamp">03:23 <i id="1" class="fa-solid songItemPlay fa-play"></i></span></span>
         </div>
         <div class="songItem">
             <img src="cover3.jpeg" alt="cover photo">
-            <span>Song number 3</span>
-            <span class="songlistplay"><span class="timestamp">05:34 <i class="fa-solid fa-play"></i></span></span>
+            <span class="songName">Song number 3</span>
+            <span class="songlistplay"><span class="timestamp">04:21 <i id="2" class="fa-solid songItemPlay fa-play"></i></span></span>
         </div>
         <div class="songItem">
             <img src="cover4.jpeg" alt="cover photo">
-            <span>Song number 4</span>
-            <span class="songlistplay"><span class="timestamp">05:34 <i class="fa-solid fa-play"></i></span></span>
+            <span class="songName">Song number 4</span>
+            <span class="songlistplay"><span class="timestamp">05:04 <i id="3" class="fa-solid songItemPlay fa-play"></i></span></span>
         </div>
         <div class="songItem">
             <img src="cover5.jpeg" alt="cover photo">
-            <span>Song number 5</span>
-            <span class="songlistplay"><span class="timestamp">05:34 <i class="fa-solid fa-play"></i></span></span>
+            <span class="songName">Song number 5</span>
+            <span class="songlistplay"><span class="timestamp">01:54 <i id="4" class="fa-solid songItemPlay fa-play"></i></span></span>
         </div>
         <div class="songItem">
             <img src="cover6.jpeg" alt="cover photo">
-            <span>Song number 6</span>
-            <span class="songlistplay"><span class="timestamp">05:34 <i class="fa-solid fa-play"></i></span></span>
+            <span class="songName">Song number 6</span>
+            <span class="songlistplay"><span class="timestamp">02:39 <i id="5" class="fa-solid songItemPlay fa-play"></i></span></span>
         </div>
         </div>
         </div>
@@ -60,12 +60,12 @@
         <input type="range" name="range" id="myProgressBar" min="0" value="0" max="100" placeholder="ProgressBar">
         <div class="icons">
             <!-- font awesome icons -->
-            <i class="fa-solid fa-backward"></i>
+            <i class="fa-solid fa-backward" id="previous"></i>
             <i class="fa-solid fa-play" id="masterPlay"></i>
-            <i class="fa-solid fa-forward"></i>
+            <i class="fa-solid fa-forward" id="next"></i>
         </div>
         <div class="songInfo">
-            <img src="playing.webp" width="42px" alt="music playing gif" id="gif">&nbsp &nbsp Your current selected song is playing, enjoy :)
+            <img src="playing.webp" width="42px" alt="music playing gif" id="gif"><span id="masterSongName">Song number 1 is playing enjoy :)</span>
         </div>
     </div>
 
