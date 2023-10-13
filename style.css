@@ -111,10 +111,12 @@ nav ul li{
     position: absolute;
     left: 10vw;
     font-family: 'Ubuntu', sans-serif;
-
+    margin-top: 10px;
 }
 
 .songInfo img{
     opacity: 0;
     transition: opacity 0.4s ease-in;
+    height: 25px;
+    width: 50px;
 }

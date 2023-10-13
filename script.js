@@ -2,18 +2,18 @@ console.log("hello everyone, welcome to Melodify")
 
 //initializing variables
 let songIndex = 0;
-let audioElement = new Audio('song.mp3');
+let audioElement = new Audio('song1.mp3');
 let masterPlay =  document.getElementById('masterPlay');
 let myProgressBar = document.getElementById('myProgressBar')
 let gif = document.getElementById('gif')
 
 let songs = [
-    {songName: 'Dance for me', filePath: "song.mp3", coverPath: "cover1.jpeg"},
-    {songName: 'Dance for me', filePath: "song.mp3", coverPath: "cover1.jpeg"},
-    {songName: 'Dance for me', filePath: "song.mp3", coverPath: "cover1.jpeg"},
-    {songName: 'Dance for me', filePath: "song.mp3", coverPath: "cover1.jpeg"},
-    {songName: 'Dance for me', filePath: "song.mp3", coverPath: "cover1.jpeg"},
-    {songName: 'Dance for me', filePath: "song.mp3", coverPath: "cover1.jpeg"}
+    {songName: 'Song number 1', filePath: "song1.mp3", coverPath: "cover1.jpeg"},
+    {songName: 'Song number 2', filePath: "song2.mp3", coverPath: "cover2.jpeg"},
+    {songName: 'Song number 3', filePath: "song3.mp3", coverPath: "cover3.jpeg"},
+    {songName: 'Song number 4', filePath: "song4.mp3", coverPath: "cover4.jpeg"},
+    {songName: 'Song number 5', filePath: "song5.mp3", coverPath: "cover5.jpeg"},
+    {songName: 'Song number 6', filePath: "song6.mp3", coverPath: "cover6.jpeg"}
 ]
 
 // audioElement.play();
