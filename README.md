@@ -1,4 +1,4 @@
-# Welcome to Melodify- Your Ultimate Music Experience! 🎶
+# Welcome to Melodify-Your Ultimate Music Experience! 🎶
 
 Melodify is not just a music player; it's a symphony of innovation and convenience, crafted using the perfect harmony of HTML, CSS, and Vanilla JavaScript. Dive into a world of limitless tunes without any pesky ads - your next go-to place for an exceptional and ad-free music listening experience! 🚀
 
