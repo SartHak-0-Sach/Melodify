@@ -74,6 +74,7 @@ nav ul li{
 
 #myProgressBar{
     width: 80vw;
+    cursor: pointer;
 }
 
 .songItemContainer{
@@ -109,4 +110,10 @@ nav ul li{
 .songInfo{
     position: absolute;
     left: 10vw;
+}
+
+.songInfo img{
+    opacity: 0;
+    transition: opacity 1s ease-in;
+    font-family: 'Ubuntu', sans-serif;
 }
