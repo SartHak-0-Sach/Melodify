@@ -32,3 +32,5 @@ We believe in the power of collaboration and the magic of feedback! If you have 
 We extend our heartfelt gratitude to the people who gave me their valuable feedback and suggestions and all music enthusiasts who tried this music player. Melodify wouldn't be possible without your passion, creativity, and endless love for music. Let's continue rocking the web and spreading the beats of joy! 🎉
 
 Happy listening and keep the good vibes rolling with Melodify! 🎶
+
+Deployed on netlify link: https://melodi-fy.netlify.app/
