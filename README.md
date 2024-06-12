@@ -1,6 +1,6 @@
-# Welcome to Melodify-Your ultimate music experience🎶
+# Welcome to Melodify- Your ultimate music experience🎶
 
-Melodify is not just a music player; it's a symphony of innovation and convenience, crafted using the perfect harmony of HTML, CSS, and Vanilla JavaScript. Dive into a world of limitless tunes without any pesky ads - your next go-to place for an exceptional and ad-free music listening experience! 🚀
+Melodify is not just a music player; it's a symphony of innovation and convenience, crafted using the perfect harmony of React, Redux and Rapid API. Dive into a world of limitless tunes without any pesky ads - your next go-to place for an exceptional and ad-free music listening experience! 🚀
 
 ## Features that Hit All the Right Notes! 🎵
 
@@ -32,5 +32,3 @@ We believe in the power of collaboration and the magic of feedback! If you have 
 We extend our heartfelt gratitude to the people who gave me their valuable feedback and suggestions and all music enthusiasts who tried this music player. Melodify wouldn't be possible without your passion, creativity, and endless love for music. Let's continue rocking the web and spreading the beats of joy! 🎉
 
 Happy listening and keep the good vibes rolling with Melodify! 🎶
-
-Deployed on netlify link: https://melodi-fy.netlify.app/
